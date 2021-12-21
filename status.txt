@@ -1,0 +1,1 @@
+➜  ~ git:(master) ✗ jupyter notebook --NotebookApp.use_redirect_file=False    
